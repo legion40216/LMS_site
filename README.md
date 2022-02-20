@@ -1,4 +1,4 @@
-# LMS_site
+# LMS_site (Bootstrap)
 bootstrap made lms website Responsive
 View the site on https://legion40216.github.io/LMS_site/
 
